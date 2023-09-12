@@ -3,3 +3,4 @@ data
 prf_viz.ipynb
 scripts/datasets
 scripts/models
+scripts/checkpoints
